@@ -25,8 +25,8 @@
   
 
 📂 Project Structure
-* tic_tac_toe.dart      # Main Dart file with game logic
-* README.md             # This file
+* tic_tac_toe.dart      
+* README.md            
 
 ✨ Author
 Ruba Shihada / https://github.com/RubaJihad/Tic-Tac-Toe-game
